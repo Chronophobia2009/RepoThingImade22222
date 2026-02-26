@@ -1,0 +1,10 @@
+{
+  "name": "Odd Niché",
+  "description": "Personal collection of specialized providers",
+  "metadata": "https://example.com/icon.png",
+  "pluginLists": [
+    "https://xhamster.com/provider1.json",
+    "https://Pornhub.com/provider2.json",
+    "https://hentaihaven.xxx/provider3.json"
+  ]
+}
